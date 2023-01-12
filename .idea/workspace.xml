@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95f6e52e-ac1e-4a3b-a0c3-bab22ccb0b2c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Program Files/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JoO0DrhSAl7KrW9ZYwRGsYPuiW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/code/JUC",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FutureAPIDemo">
+    <configuration name="CompletableFutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxq.completable.CompletableFutureDemo" />
+      <module name="juc-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxq.completable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForkJoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxq.forkjoin.ForkJoinDemo" />
+      <module name="juc-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxq.forkjoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FutureAPIDemo" />
+      <module name="juc-premium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FutureDemo" />
+      <module name="juc-premium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FutureThreadPoolDemo" />
+      <module name="juc-premium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FutureAPIDemo" />
+        <item itemvalue="Application.FutureThreadPoolDemo" />
+        <item itemvalue="Application.FutureDemo" />
+        <item itemvalue="Application.CompletableFutureDemo" />
+        <item itemvalue="Application.ForkJoinDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95f6e52e-ac1e-4a3b-a0c3-bab22ccb0b2c" name="Changes" comment="" />
+      <created>1672740746892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672740746892</updated>
+      <workItem from="1672740749316" duration="4655000" />
+      <workItem from="1673058909713" duration="2059000" />
+      <workItem from="1673069864954" duration="6551000" />
+      <workItem from="1673141408784" duration="4182000" />
+      <workItem from="1673167066315" duration="4338000" />
+      <workItem from="1673311967506" duration="6375000" />
+      <workItem from="1673330092889" duration="9311000" />
+      <workItem from="1673341464300" duration="103000" />
+      <workItem from="1673341853711" duration="1187000" />
+      <workItem from="1673404083566" duration="2509000" />
+      <workItem from="1673406629177" duration="379000" />
+      <workItem from="1673407034956" duration="116000" />
+      <workItem from="1673407251182" duration="156000" />
+      <workItem from="1673407439564" duration="2761000" />
+      <workItem from="1673489140545" duration="3002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
